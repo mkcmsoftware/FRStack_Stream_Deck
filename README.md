@@ -1,7 +1,7 @@
 # FRStack_Stream_Deck
 Stream Desk support files for FRStack
 
-The current version V1.5.1 supports Stream Deck / Stream Deck+ plug-in / Stream Deck Petal
+The current version V1.6.0 
 
 * The Stream Deck extension for Rest is called &quot;com.mkcmsoftware.restcall.streamDeckPlugin&quot;.
 * Adds Toggle and SD+ Encoder Actions and still allows for easy access to URL Domain settings
@@ -9,7 +9,8 @@ The current version V1.5.1 supports Stream Deck / Stream Deck+ plug-in / Stream 
 * StreamDeck Toggle Action provides and easy Keyboard toggle action
 * StreamDeck Level Action provides and easy Keyboard UP / DOWN action
 * StreamDeck+ Encoder Action provides Dial functionality
-
+* Supports Stream Deck / Stream Deck+ plug-in / Stream Deck Petal
+  
 * The GitHub site is located at https://github.com/mkcmsoftware/FRStack_Stream_Deck.git
 
 
