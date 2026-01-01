@@ -1,7 +1,7 @@
 # FRStack_Stream_Deck
 Stream Desk support files for FRStack
 
-The current version V1.6.0 
+The current version V1.7.0 
 
 * The Stream Deck extension for Rest is called &quot;com.mkcmsoftware.restcall.streamDeckPlugin&quot;.
 * Adds Toggle and SD+ Encoder Actions and still allows for easy access to URL Domain settings
@@ -12,8 +12,6 @@ The current version V1.6.0
 * Supports Stream Deck / Stream Deck+ plug-in / Stream Deck Petal
   
 * The GitHub site is located at https://github.com/mkcmsoftware/FRStack_Stream_Deck.git
-
-
 
 
 This site is intended for Flex Radio Community members to exchange Stream Deck profiles for FRStack.
