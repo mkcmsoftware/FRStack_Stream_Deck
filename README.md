@@ -1,7 +1,7 @@
 # FRStack_Stream_Deck
 Stream Desk support files for FRStack
 
-The current version V1.7.0 
+The current version V1.7.1 
 
 * The Stream Deck extension for Rest is called &quot;com.mkcmsoftware.restcall.streamDeckPlugin&quot;.
 * Adds Toggle and SD+ Encoder Actions and still allows for easy access to URL Domain settings
